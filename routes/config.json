@@ -1,0 +1,15 @@
+{
+    "auth": {
+		"user": "ETHManager",
+		"pass": "ETHManagerPass"
+    },
+    "eth":{
+      "rpc": "https://ropsten.infura.io/v3/052de0b6fe1e46d7bd388218e0770417",
+      "etherscanEndpoint": "",
+      "rpcAuth":{
+      "user":"user",
+      "pass":"pass"
+      }
+    }
+  }
+
