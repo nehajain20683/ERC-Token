@@ -1,17 +1,5 @@
-# Crypto Payment Gateway
+This repository contains code for swagger documentation for ERC token manager.
 
-Payment Gateway For ETH Wallet Management 
-
-# Supported Crypto Payments 
-
-Ethereum
-
-
-# Technology Stack
-
-* Ethereum
-* Swagger Api
-* Nodejs
 
 # Pre-requisites
 
