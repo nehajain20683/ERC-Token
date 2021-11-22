@@ -1,6 +1,7 @@
 This repository contains code for swagger documentation for ERC token manager.
 
 
+
 # Pre-requisites
 
 - Install [Node.js](https://nodejs.org/en/) version 11.0.0
@@ -8,7 +9,7 @@ This repository contains code for swagger documentation for ERC token manager.
 # Getting started
 - Clone the repository
 ```
-git clone  <git lab template url> <project_name>
+git clone  <github template url> <project_name>
 ```
 - Install dependencies
 ```
